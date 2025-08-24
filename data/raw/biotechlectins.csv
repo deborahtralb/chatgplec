@@ -1,0 +1,52 @@
+Lectin,Organism,Preferred glycan,Origin,uniprot,protein name,Length,PDB,Fold,Class,InterPro family
+MPA,Maclura pomifera,Gal(b1-3)GalNAc,Plant,P18674,Agglutinin alpha chain,133,3LLZ,b-prism I, Jacalin-like,IPR001229
+BanLec,Musa acuminata,Man,Plant,O22321,Ripening-associated protein,141,4PIK,b-prism I, Jacalin-like,IPR001229
+Jacalin / AIA,Artocarpus integrifolia,Gal(b1-3)GalNAc,Plant,P18670,Agglutinin alpha chain /Jacalin,133,4R6O,b-prism I, Jacalin-like,IPR001229
+Calsepa,Calystegia sepium,Man,Plant,P93114,Jacalin-related lectin Calsepa,153,5AV7,b-prism I, Jacalin-like,IPR001229
+TL-1,Tulipa sp, Biantennary glycans with core fucose,Plant,Q41622,Agglutinin,275,nan,b-prism II,Monocot-lectin like,IPR001480
+GNL,Galanthus nivalis,Man(a1-3)Man,Plant,P30617,Mannose-specific lectin,157,1JPC,b-prism II,Monocot-lectin like,IPR001480
+ASA,Allium sativum,Man,Plant,P83886,Mannose-specific lectin,181,1KJ1,b-prism II,Monocot-lectin like,IPR001480
+NPA,Narcissus pseudonarcissus,"aMan, bMan",Plant,C0HM45,Mannose-specific lectin,109,1NPL,b-prism II,Monocot-lectin like,IPR001480
+HHL,Hippeastrum hybrid,aMan,Plant,Q7Y041,Lectin,158,8A9M,b-prism II,Monocot-lectin like,IPR001480
+AMA,Arum maculatum,Man(a1-3)Man,Plant,Q38730,Lectin,259,nan,b-prism II,Monocot-lectin like,IPR001480
+Heltuba,Helianthus tuberosus,"Man(a1-2)Man, Man(a1-3)Man",Plant,Q45NP3,Mannose-binding lectin,118,nan,b-prism II,Monocot-lectin like,IPR001480
+VFA,Vicia faba,Man,Plant,P02871,Favin,233,2B7Y,b-sandwich / ConA-like, L-type legume lectin,IPR001220
+MAH / MAL-II,Maackia amurensis,NeuAc(a2-3)Gal(b1-3)GalNAc,Plant,Q7M1M0,Hemagglutinin,247,nan,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+LCA,Lens Culinaris,Fucosylated N-glycans,Plant,P02870,Lectin,274,1LES,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+DBL,Dolichos biflorus,GalNAc,Plant,P19588,Lectin DB58,275,1LU2,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+PSA,Pisum sativum,N-glycans,Plant,P02867,Lectin,275,1BQP,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+MAL / MAL-I,Maackia amurensis,NeuAc(a2-3)Gal(b1-4)GlcNAc,Plant,P0DKL3,Seed leukoagglutinin,287,1DBN,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+PHA-L,Phaseolus vulgaris, Biantennary glycans,Plant,P05087,Leucoagglutinating phytohemagglutinin,272,1FAT,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+RPA,Robinia pseudoacacia,N-glycans,Plant,Q41159,Bark agglutinin I polypeptide A,285,1FNZ,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+ECL,Erythrina crista-galli,Gal(b1-4)GlcNAc,Plant,P83410,Lectin,239,1GZC,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+GSL-IB4,Griffonia simplicifolia,aGal,Plant,Q8W1R6,GSI-B4 isolectin,247,1HQL,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+UEA-I,Ulex europaeus,Fuc(a1-2)Gal,Plant,P22972,Anti-H(O) lectin 1,243,1JXN,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+VVL,Vicia villosa,Gal(b1-3)GalNAc,Plant,P56625,Lectin B4,185,1N47,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+UEA-II,Ulex europaeus,GlcNAc(b1-3)Gal,Plant,P22973,Anti-H(O) lectin 2,249,1QOO,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+SBA,Glycine Max,GalNAc/ Gal,Plant,P05046,Lectin,285,1SBD,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+PNA,Arachis hypogaea,Gal(b1-4)GlcNAc,Plant,P02872,Galactose-binding lectin,273,2DVA,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+PTL-I /WBA-I (basic),Psophocarpus tetragonolobus,Gal/GalNAc,Plant,O24313,Basic agglutinin,242,2E7Q,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+LTL,Lotus tetragonolobus,Fuc,Plant,P19664,Anti-H(O) lectin,240,2EIG,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+PHA-E,Phaseolus vulgaris,Bissected  biantennary glycans,Plant,P05088,Erythroagglutinating phytohemagglutinin,275, 5AVA,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+WFA,Wisteria floribunda,GalNAc,Plant,A0A1D5B395,Wisteria floribunda agglutinin,243,5KXC,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+PTL-II /WBA-2 (acidic),Psophocarpus tetragonolobus,Fuc(a1-2)Gal,Plant,Q9SM56,Winged bean acidic lectin,240,1F9K,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+BPA,Bauhinia purpurea,Gal(b1-3)GalNAc,Plant,P16030,Lectin,290,nan,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+CAA,Caragana arborescens, GlcNAc/GalNAc,Plant,Q9ZRP2,Lectin,87,nan,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+CPA,Cicer arietinum,fetuin,Plant,O65756,Vegetative lectin,256,nan,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+CSA,Cytisus scoparius,GalNAc,Plant,P29257,2-acetamido-2-deoxy-D-galactose-binding seed lectin 2,248,nan,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+GSL-II,Griffonia simplicifolia,GlcNAc,Plant,Q41263,Insecticidal N-acetylglucosamine-specific lectin,258,nan,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+LAA,Laburnum alpinum,Fucosylated N-glycans,Plant,P23558,Lectin 1,250,nan,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+LBA,Phaseolus lunatus, GlcNAc/GalNAc,Plant,P16300,Lectin,243,nan,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+SJA,Sophora japonica,GalNAc/ Gal,Plant,P93535,Seed lectin,292,nan,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+ConA,Canavalia ensiformis,Man,Plant,P02866,Concanavalin-A,290,5CNA,b-sandwich / ConA-like,L-type legume lectin,IPR001220
+TJA-I,Trichosanthes japonica,Fuc(a1-2)Gal,Plant,U3KRF8,Seed lectin,519,4HR6,b-trefoil,Ricin-like,IPR000772
+SNA,Sambucus nigra,NeuAc(a2-6)Gal,Plant,P33183,Nigrin b,570,3C9Z,b-trefoil,Ricin-like,IPR000772
+ACA,Amaranthus caudatus,Gal(b1-3)GalNAc,Plant,Q71QF2,Agglutinin,304,1JLX,b-trefoil,Amaranthin-like,IPR008998
+RCAI,Ricinus communis,Gal,Plant,P02879,Ricin,576,2AAI,b-trefoil,Ricin-like,IPR000772
+EEA,Euonymus europaeus,Fuc(a1-2)Gal,Plant,B3SV73,Lectin 1,158,nan,b-trefoil,Ricin-like,IPR035992
+UDA,Urtica dioica,GlcNAc(b1-4)GlcNAc,Plant,P11218,Lectin/endochitinase 1,372,1ENM,small protein / Knottin,Hevein-like,IPR001002
+PWA,Phytolacca americana,GlcNAc(b1-4)GlcNAc,Plant,Q9AYP9,Lectin-C,194,1ULM,small protein / Knottin,Hevein-like,IPR001002
+DSL,Datura stramonium,GlcNAc(b1-4)GlcNAc,Plant,A0A089ZWN7,Chitin-binding lectin,279,nan,small protein / Knottin,Hevein-like,IPR001002
+LEA,Solanum lycopersicum  (ex lycopersicum esculentum),GlcNAc(b1-4)GlcNAc,Plant,D0VX39,42kDa chitin-binding protein,312,nan,small protein / Knottin,Hevein-like,IPR001002
+STA,Solanum tuberosum,GlcNAc(b1-4)GlcNAc,Plant,Q9S8M0,Chitin-binding lectin 1,323,nan,small protein / Knottin,Hevein-like,IPR001002
+WGA,Triticum vulgaris,GlcNAc,Plant,P10969,Agglutinin isolectin 3,186,1K7V,small protein / Knottin,Hevein-like,IPR001002

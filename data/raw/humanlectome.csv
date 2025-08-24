@@ -1,0 +1,110 @@
+UniProt_ID,RefSeqID,GeneID,lectomeXplore_score,infer_class,infer_fold,PDB_ID,family,common_protein_name,lectinStatus,glycanStatus,Chromosome,iupac,lectomexplore_id
+P11226,NP_000233,4153,0.403,C-type lectin,a/b mixed / C-type lectin-like,1HUP,MBP,MBP-C - mannose-binding protein C,Curated,Specific,10,,553043
+P16581,NP_000441,6401,0.517,C-type lectin,a/b mixed / C-type lectin-like,1G1T,E-selectin,E-selectin,Curated,Specific,1,NeuAc(a2-3)Gal(b1-4)[Fuc(a1-3)]GlcNAc,553040
+P14151,NP_000646,6402,0.452,C-type lectin,a/b mixed / C-type lectin-like,5VC1,L-selectin,L-selectin,Curated,Specific,1,Man(a1-3)[Man(a1-6)]Man(b1-4)GlcNAc(b1-4)GlcNAc,553039
+Q6EIG7,NP_001007034,93978,0.423,C-type lectin,a/b mixed / C-type lectin-like,5VYB,dectin-2 / CLEC4N,Dectin-2,Curated,Specific,12,Man(a1-2)Man(a1-3)[Man(a1-2)Man(a1-6)]Man,552928
+Q6UW15,NP_001008388,130120,0.36,C-type lectin,a/b mixed / C-type lectin-like,,,Regenerating family member 3 gamma,Curated,Specific,2,,553118
+P47929,NP_001035972,653499,0.445,galectin-like,b-sandwich / ConA-like,4GAL,galectin-7,Galectin 7,Curated,Specific,19,GalN;Gal;Gal(b1-4)GlcNAc;Gal(b1-3)GlcNAc;Gal(b1-4)Glc,553024
+Q08ET2,NP_001092082,100049587,0.555,I-type lectin,b-sandwich / Ig-like,,,SIGLEC-14,Curated,Specific,19,,553133
+Q9BYZ8,NP_001152824,83998,0.31,C-type lectin,a/b mixed / C-type lectin-like,2KV3,,Regenerating family member 4,Curated,Specific,1,,553119
+Q8N4A0,NP_001186710,100528030,0.282,Ricin-like,b-trefoil,5NQA,CBM13-ppGalNAc-T4,CBM13-ppGalNAc-T4,Curated,Specific,12,GalNAc,
+Q6ZS10,NP_001191047,388512,0.39,C-type lectin,a/b mixed / C-type lectin-like,,,Prolectin,Curated,Specific,19,,552905
+O43699,NP_001236,946,0.487,I-type lectin,b-sandwich / Ig-like,,,SIGLEC-6,Curated,Specific,19,,553137
+Q6UX15,NP_001245319,143903,0.31,C-type lectin,a/b mixed / C-type lectin-like,,,Layilin,Curated,Specific,11,,553016
+A6NMB1,NP_001335293,400709,0.495,I-type lectin,b-sandwich / Ig-like,,,SIGLEC-16,Curated,Specific,19,,553135
+P02743,NP_001630,325,0.835,Pentraxin,b-sandwich / ConA-like,1GYK,serum amyloid P component,SAP - Serum amyloid P-component,Curated,Specific,1,;Gal,553123
+P07306,NP_001662,432,0.422,C-type lectin,a/b mixed / C-type lectin-like,6YAU,ASGPR1,Hepatic asialoglycoprotein receptor 1,Curated,Specific,17,Gal(b1-4)Glc;GalNAc,552868
+P27824,NP_001737,821,0.608,calnexin-calreticulin like,b-sandwich / ConA-like,,,Calnexin,Curated,Specific,5,,552885
+P20273,NP_001762,933,0.43,I-type lectin,b-sandwich / Ig-like,5VKM,Siglec-2 CD22,SIGLEC-2,Curated,Specific,19,NeuAc(a2-6)Gal(b1-4)Glc,552887
+P20138,NP_001763,945,0.398,I-type lectin,b-sandwich / Ig-like,6D4A,Siglec-3 CD33 ,SIGLEC-3,Curated,Specific,19,NeuAc(a2-6)Gal;NeuAc(a2-3)Gal;NeuAc(a2-6)Gal(b1-4)Glc,552891
+O00602,NP_001994,2219,0.819,Ficolin-like,a/b mixed with b-sheet / Fibrinogen C-ter like,2JHK,M-ficolin,M-ficolin,Curated,Specific,9,GlcNAc;GalNAc;NeuAc,552961
+Q12918,NP_002249,3820,0.343,C-type lectin,a/b mixed / C-type lectin-like,5MGR,,Killer cell lectin-like receptor B1,Curated,Specific,12,,553004
+Q13241,NP_002253,3824,0.323,C-type lectin,a/b mixed / C-type lectin-like,1B6E,,Killer cell lectin-like receptor D member 1,Curated,Specific,12,,553005
+P09382,NP_002296,3956,0.434,galectin-like,b-sandwich / ConA-like,4Q26,galectin-1,Galectin 1,Curated,Specific,22,Gal(b1-4)Glc;Gal(b1-4)Fruf;Gal;Gal(b1-4)GlcNAc;Gal(b1-3)GlcNAc;NeuAc(a2-3)Gal(b1-4)Glc;Tal,553020
+P17931,NP_002297,3958,0.505,galectin-like,b-sandwich / ConA-like,3ZSJ,galectin-3,Galectin 3,Curated,Specific,14,;GalA(a1-4)GalA;Gal(b1-4)Glc;Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc;GalNAc(b1-4)GlcNAc;Gal(b1-3)GalNAc;Gal(b1-3)GlcNAc(b1-3)Gal(b1-4)Glc;Gal(b1-4)Fruf;Gal;Gal(b1-4)GlcNAc;Gal(b1-3)GlcNAc;NeuAc(a2-3)Gal(b1-4)Glc;Tal;Gal(b1-4)Gal;GalA(a1-4)GalA(a1-4)GalA,553022
+P20645,NP_002346,4074,0.378,P-type lectin,b-barrel,,,CD-MPR - Cation-dependent mannose-6-phosphate receptor,Curated,Specific,12,,553048
+P20916,NP_002352,4099,0.846,I-type lectin,b-sandwich / Ig-like,,,SIGLEC-4,Curated,Specific,19,,553042
+Q06141,NP_002571,5068,0.345,C-type lectin,a/b mixed / C-type lectin-like,4MTH,RegIIIa,HIP - PAP Regenerating family member 3 alpha,Curated,Specific,2,,553117
+P13727,NP_002719,5553,0.258,C-type lectin,a/b mixed / C-type lectin-like,2BRS,,Bone marrow proteoglycan 2,Curated,Specific,11,,553103
+P16109,NP_002996,6403,0.458,C-type lectin,a/b mixed / C-type lectin-like,1G1S,P-selectin,P-selectin,Curated,Specific,1,NeuAc(a2-3)Gal(b1-4)[Fuc(a1-3)]GlcNAc;NeuAc(a2-3)Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-6)[Gal(b1-3)]GalNAc,553041
+P35247,NP_003010,6441,0.45,C-type lectin,a/b mixed / C-type lectin-like,1PWB,SP-D,SP-D - surfactant-associated protein D,Curated,Specific,10,;Man(a1-2)Man(a1-2)Man;Glc(a1-3)Hep(a1-3)Hep(a1-5)Kdo;Glc(a1-4)Glc;ManNAc;Man(a1-4)Man;LDmanHep;Gal;DDmanHep;Glc(a1-4)Glc(a1-4)Glc;Hep(a1-3)Hep(a1-5)Kdo;Man(a1-2)Man;LDmanHep(a1-3)LDmanHep,553129
+P05452,NP_003269,7123,0.418,C-type lectin,a/b mixed / C-type lectin-like,3L9J,tetranectin,Tetranectin,Curated,Specific,3,,553153
+O75636,NP_003656,8547,0.665,Ficolin-like,a/b mixed with b-sheet / Fibrinogen C-ter like,2J5Z,H-ficolin,H-ficolin,Curated,Specific,1,Gal;Fuc,552963
+O15389,NP_003821,8778,0.55,I-type lectin,b-sandwich / Ig-like,2ZG1,Siglec-5,SIGLEC-5,Curated,Specific,19,NeuAc(a2-6)Gal(b1-4)Glc;NeuAc(a2-3)Gal(b1-4)Glc,553136
+Q15485,NP_004099,2220,0.796,Ficolin-like,a/b mixed with b-sheet / Fibrinogen C-ter like,2J3U,L-ficolin,L-ficolin,Curated,Specific,9,;ManNAc;GlcNAc;GlcN;Gal;GalNAc;Glc(b1-3)Glc(b1-3)Glc(b1-3)Glc,552962
+P27797,NP_004334,811,0.626,calnexin-calreticulin like,b-sandwich / ConA-like,6ENY,calreticulin,Calreticulin,Curated,Specific,19,Glc(a1-3)Man(a1-2)Man(a1-2)Man,552884
+P13611,NP_004376,1462,0.389,C-type lectin,a/b mixed / C-type lectin-like,,,Versican,Curated,Specific,5,,552950
+O14594,NP_004377,1463,0.378,C-type lectin,a/b mixed / C-type lectin-like,,,Neurocan,Curated,Specific,19,,553060
+Q10471,NP_004472,2590,0.217,Ricin-like,b-trefoil,5AJO,CBM13-ppGalNAc-T2,CBM13-ppGalNAc-T2,Curated,Specific,1,GalNAc,552980
+Q8IWL2,NP_005402,653509,0.353,C-type lectin,a/b mixed / C-type lectin-like,,,SP-A1 - surfactant-associated protein A1,Curated,Specific,10,,553128
+P49257,NP_005561,3998,0.897,ERGIC-VIP L-type,b-sandwich / ConA-like,4GKY,ERGIC-53,"ERGIC-53 - lectin, mannose binding 1",Curated,Specific,18,Man(a1-2)Man;Man,553032
+P56470,NP_006140,3960,0.486,galectin-like,b-sandwich / ConA-like,5DUV,galectin-4 N terminal,Galectin 4,Curated,Specific,19,Gal(b1-3)GlcNAc(b1-3)Gal(b1-4)Glc;Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc;Gal(b1-4)Glc;Fuc(a1-2)Gal(b1-4)Glc,553023
+Q9Y6Z7,NP_006429,10584,0.373,C-type lectin,a/b mixed / C-type lectin-like,,,Collectin-L1,Curated,Specific,8,,552945
+P05162,NP_006489,3957,0.416,galectin-like,b-sandwich / ConA-like,5DG2,galectin-2,Galectin 2,Curated,Specific,22,Gal(b1-4)Glc,553021
+Q12907,NP_006807,10960,0.594,ERGIC-VIP L-type,b-sandwich / ConA-like,,,"VIP36 - lectin, mannose binding 2",Curated,Specific,5,,553033
+Q8NCL4,NP_009141,11226,0.297,Ricin-like,b-trefoil,,,CBM13-ppGalNAc-T6,Curated,Specific,12,,
+O00182,NP_033665,3965,0.497,galectin-like,b-sandwich / ConA-like,2ZHN,galectin-9 N terminal,Galectin 9,Curated,Specific,17,Gal(b1-4)Glc;Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNA(c1-3)Gal(b1-4)GlcNAc;GalNAc(a1-3)GalNAc(b1-3)Gal;Gal(b1-4)GlcNAc(b1-2)Man;Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc;Gal(b1-4)GlcNAc;NeuAc(a2-3)Gal(b1-4)Glc,553028
+P16112,NP_037359,176,0.383,C-type lectin,a/b mixed / C-type lectin-like,,,CLEC4H1 - Aggrecan,Curated,Specific,15,,553092
+Q9H2X3,NP_055072,10332,0.542,C-type lectin,a/b mixed / C-type lectin-like,1K9J,DC-SIGNR,CLEC4M - DC-SIGNR,Curated,Specific,19,GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man;Gal(b1-4)[Fuc(a1-3)]GlcNAc,552926
+Q9ULY5,NP_055173,26253,0.432,C-type lectin,a/b mixed / C-type lectin-like,3WH3,Mincle / CLEC4E,Mincle,Curated,Specific,12,,552922
+Q9Y286,NP_055200,27036,0.534,I-type lectin,b-sandwich / Ig-like,2G5R,Siglec-7,SIGLEC-7,Curated,Specific,19,NeuAc;NeuAc(a2-3)Gal(b1-3)[NeuAc(a2-6)]GlcNAc;GalNAc(b1-4)[NeuAc(a2-8)NeuAc(a2-3)]Gal(b1-4)Glc,553138
+Q9Y336,NP_055256,27180,0.519,I-type lectin,b-sandwich / Ig-like,,,SIGLEC-9,Curated,Specific,19,,553140
+Q9NYZ4,NP_055257,27181,0.541,I-type lectin,b-sandwich / Ig-like,2N7B,Siglec-8,SIGLEC-8,Curated,Specific,19,NeuAc(a2-3)Gal(b1-4)[Fuc(a1-3)]GlcNAc,553139
+Q9UJ71,NP_056532,50489,0.49,C-type lectin,a/b mixed / C-type lectin-like,3P7G,langerin,CLEC4K - Langerin,Curated,Specific,2,Gal(a1-3)[Fuc(a1-2)]Gal;Glc(a1-4)Glc;GlcNAc;Glc(b1-3)Glc;GlcN;Gal(b1-4)GlcNAc;GlcNAc(b1-3)Gal(b1-4)Glc;Man(a1-3)Man;Man,552925
+Q9UMR7,NP_057268,50856,0.428,C-type lectin,a/b mixed / C-type lectin-like,5B1X,DCIR /  CLEC4A,DCIR Dendritic cell immunoreceptor,Curated,Specific,12,GlcNAc(b1-2)Man,552919
+Q8WWA0,NP_060095,55600,0.514,Ficolin-like,a/b mixed with b-sheet / Fibrinogen C-ter like,6USC,intelectin-1 / XEEL,Intelectin 1,Curated,Specific,1,Galf;KO,552998
+Q10472,NP_065207,2589,0.256,Ricin-like,b-trefoil,,,CBM13-ppGalNAc-T1,Curated,Specific,18,,552979
+Q9NNX6,NP_066978,30835,0.614,C-type lectin,a/b mixed / C-type lectin-like,1SL4,DC-SIGN,CLEC4L - DC-SIGN,Curated,Specific,19,Man(a1-6)[Man(a1-3)]Man(a1-6)Man;Man(a1-2)Man(a1-3)Man;Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-3)Gal(b1-4)Glc;GlcNAc(b1-2)Man(a1-3)[GlcNAc(b1-2)Man(a1-6)]Man;Man(a1-2)Man;Man,552886
+Q9HCQ5,NP_068580,50614,0.181,Ricin-like,b-trefoil,,,CBM13-ppGalNAc-T9,Curated,Specific,12,,
+Q96GW7,NP_068767,63827,0.382,C-type lectin,a/b mixed / C-type lectin-like,,,Brevican,Curated,Specific,1,,553093
+Q8NCW6,NP_071370,63917,0.19,Ricin-like,b-trefoil,,,CBM13-ppGalNAc-T11,Curated,Specific,7,,
+Q6IS24,NP_071924,64409,0.227,Ricin-like,b-trefoil,,,CBM13-ppGalNAc-T17,Curated,Specific,7,,
+Q9BZZ2,NP_075556,6614,0.456,I-type lectin,b-sandwich / Ig-like,,,SIGLEC-1,Curated,Specific,20,,553143
+Q9BWP8,NP_076932,78989,0.383,C-type lectin,a/b mixed / C-type lectin-like,4YLI,collectin-K1 / COLEC11,Collectin-K1,Curated,Specific,2,Man(a1-2)Man,552946
+Q8IXK2,NP_078918,79695,0.218,Ricin-like,b-trefoil,6PXU,CBM13-ppGalNAc-T12,CBM13-ppGalNAc-T12,Curated,Specific,9,GalNAc,
+Q9H0V9,NP_110432,81562,0.551,ERGIC-VIP L-type,b-sandwich / ConA-like,,,"VIPL - lectin, mannose binding 2",Curated,Specific,2,,553031
+Q96LC7,NP_149121,89790,0.516,I-type lectin,b-sandwich / Ig-like,,,SIGLEC-10,Curated,Specific,19,,553130
+Q96RL6,NP_443116,114132,0.513,I-type lectin,b-sandwich / Ig-like,,,SIGLEC-11,Curated,Specific,19,,553131
+Q8IUC8,NP_443149,114805,0.182,Ricin-like,b-trefoil,,,CBM13-ppGalNAc-T13,Curated,Specific,2,,552982
+Q8N3T1,NP_473451,117248,0.332,Ricin-like,b-trefoil,,,CBM13-ppGalNAc-T15,Curated,Specific,3,,
+Q5KU26,NP_569057,81035,0.406,C-type lectin,a/b mixed / C-type lectin-like,2OX8,SRCL / COLEC12,SRCL - Scavenger receptor with CTLD,Curated,Specific,18,,552947
+Q8WTT0,NP_569708,170482,0.396,C-type lectin,a/b mixed / C-type lectin-like,4ZES,BDCA-2 / CLEC4C,BDCA-2 - Blood Dendritic Cell Antigen 2,Curated,Specific,12,Gal(b1-4)GlcNAc(b1-2)Man;Man,552920
+Q8N1N0,NP_775806,165530,0.345,C-type lectin,a/b mixed / C-type lectin-like,,,Kupffer Cell receptor,Curated,Specific,2,,552923
+Q8IUN9,NP_878910,10462,0.438,C-type lectin,a/b mixed / C-type lectin-like,6PY1,MGL / CLEC10A,MGL - Macrophage Galactose C-type lectin,Curated,Specific,17,GalNAc,552910
+Q9BXN2,NP_922938,64581,0.354,C-type lectin,a/b mixed / C-type lectin-like,,,Dectin-1,Curated,Specific,12,,552929
+Q86SR1,NP_938080,55568,0.281,Ricin-like,b-trefoil,2D7I,CBM13-ppGalNAc-T10,CBM13-ppGalNAc-T10,Curated,Specific,5,GalNAc,
+Q6UXB4,NP_940894,339390,0.416,C-type lectin,a/b mixed / C-type lectin-like,,,LSECtin,Curated,Specific,19,,552924
+O00214,NP_963837,3964,0.542,galectin-like,b-sandwich / ConA-like,4BMB,galectin-8 N terminal,Galectin 8,Curated,Specific,1,;Gal(b1-4)Glc;Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)Glc;NeuAc(a2-3)Gal(b1-4)GlcNAc;Gal(b1-3)Glc;NeuAc(a2-3)Gal(b1-4)Glc;Gal(b1-4)[Fuc(a1-3)]GlcNAc(b1-3)Gal(b1-4)Glc,553025
+P07307,XP_016880141,433,0.424,C-type lectin,a/b mixed / C-type lectin-like,,,CLEC4H2 - Asialoglycoprotein receptor 2,Curated,Specific,17,,552869
+Q9UBG0,NP_006030,9902,0.379,C-type lectin,a/b mixed / C-type lectin-like,5AO5,,Endo180 (Mannose receptor C type 2),Curated,Specific,17,,553052
+P22897,NP_002429,4360,0.375,C-type lectin,a/b mixed / C-type lectin-like,7L67,MMR - CRD4,CLEC13D / macrophage mannose receptor,Curated,Specific,10,Fuc(a1-3)GlcNAc;Gal(b1-3)[Fuc(a1-4)]GlcNAc;GlcNAc;Fuc(a1-2)Gal(b1-4)Glc;Man(a1-2)Man;Man,553051
+Q9UK22,NP_036300,26232,,F-box,b-sandwich / Galactose-binding domain-like,,,F-box protein 2,Curated,Specific,1,,
+Q01151,NP_004224,9308,,I-type lectin,b-sandwich / Ig-like,5MIX,,CD83,Curated,Specific,6,,
+Q96FL9,NP_078848,79623,0.339,Ricin-like,b-trefoil,,,CBM13-ppGalNAc-T14,Curated,Specific,2,,
+Q6P9A2,NP_940918,374378,0.305,Ricin-like,b-trefoil,,,CBM13-ppGalNAc-T18,Curated,Specific,11,,
+Q8N428,NP_001161840,57452,0.345,Ricin-like,b-trefoil,,,CBM13-ppGalNAc-T16,Curated,Specific,14,,
+Q14435,NP_004473,2591,0.342,Ricin-like,b-trefoil,,,CBM13-ppGalNAc-T3,Curated,Specific,2,,
+Q86SF2,NP_059119,51809,0.352,Ricin-like,b-trefoil,6IWR,CBM13-ppGalNAc-T7,CBM13-ppGalNAc-T7,Curated,Specific,4,GalNAc,
+Q15782,NP_003991,1117,0.776,chi-lectin (TIM),a/b barrel / TIM,4P8V,YKL-39,YKL-39,Curated,Specific,1,GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc;GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc,
+P36222,NP_001267,1116,0.744,chi-lectin (TIM),a/b barrel / TIM,1NWU,Hcgp-39,Hcgp-39,Curated,Specific,1,GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc;GlcNAc(b1-4)GlcNAc;GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc;GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc(b1-4)GlcNAc,
+Q9NY28,NP_059113,26290,0.099,Ricin-like,b-trefoil,,,CBM13-ppGalNAc-T8,Curated,Specific,12,,
+Q7Z7M9,NP_055383,11227,0.268,Ricin-like,b-trefoil,,,CBM13-ppGalNAc-T5,Curated,Specific,2,,
+Q9BWS9,NP_001136147,66005,0.282,chi-lectin (TIM),a/b barrel / TIM,3BXW,SI-CLP,SI-CLP,Curated,Specific,11,,
+Q49A17,NP_001030017,442117,0.292,Ricin-like,b-trefoil,,,CBM13-ppGalNAc-TL6,Curated,Specific,4,,
+O14967,NP_004353,1047,0.544,calnexin-calreticulin like,b-sandwich / ConA-like,,,Calmegin,Curated,Specific,4,,552932
+Q13438,NP_006803,10956,1.0,P-type lectin-like,b-barrel,3AIH,MRH ,MRH - mannose-6-phosphate receptor homology domain,Curated,Specific,12,Man(a1-6)Man(a1-6)Man,553088
+Q96DZ1,NP_056516,27248,0.486,P-type lectin-like,b-barrel,,,Endoplasmic reticulum lectin 1,Curated,Specific,2,,552955
+Q96DA0,NP_660295,124220,0.432,Jacalin-like,b-prism I,3AQG,,Zymogen granule protein 16 homolog B,Curated,Specific,16,,553170
+O60844,NP_689551,653808,0.543,Jacalin-like,b-prism I,3VZE,ZG16p,Zymogen granule protein 16,Curated,Specific,16,Glc(b1-3)Glc;Man(a1-3)Man;Man,553171
+P32004,NP_000416,3897,0.252,I-type lectin,b-sandwich / Ig-like,,,L1 cell adhesion molecule,Curated,Specific,X,,553010
+P11717,NP_000867,3482,0.714,P-type lectin,b-barrel,6Z30,CI-MPR,CI-MPR - Cation-independent mannose-6-phosphate receptor,Curated,Specific,6,Man(a1-3)Man(a1-6)[Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc;Man(a1-2)Man(a1-2)Man(a1-3)Man(b1-4)GlcNAc(b1-4)GlcNAc,553049
+P02741,NP_001315986,1401,0.807,Pentraxin,b-sandwich / ConA-like,1B09,C-reactive protein,C-reactive protein,Curated,Specific,1,,552949
+Q6ZMC9,NP_998767,284266,0.182,I-type lectin,b-sandwich / Ig-like,7ZOZ,,SIGLEC-15,Curated,Specific,18,,553134
+P24043,NP_001073291,3908,0.927,Laminin G-like,b-sandwich / ConA-like,4YEP,,Laminin subunit alpha-2,Curated,Specific,6,,553012
+P04155,NP_003216,7031,0.79,Trefoil Factor,peptide,6V1D,TFF1,Trefoil factor 1,Curated,Specific,21,,553154
+Q07654,NP_003217,7033,0.804,Trefoil Factor,peptide,6V1C,TFF3,Trefoil factor 3,Curated,Specific,21,GlcNAc(a1-4)Gal,553156
+Q03403,NP_005414,7032,0.554,Trefoil Factor,peptide,,,Trefoil factor 2,Curated,Specific,21,,553155
+Q14165,NP_055545,9761,0.925,Malectin,b-sandwich / ConA-like,,,Malectin,Curated,Specific,12,,553047
+Q8N539,NP_116232,84929,0.662,Ficolin-like,a/b mixed with b-sheet / Fibrinogen C-ter like,6ZQX,FIBCD,Fibrinogen C domain containing 1,Curated,Specific,9,ManNAc,552959
+P22897,NP_002429,4360,0.899,Cys-rich man-receptor,b-trefoil,5XTS,MMR - CRD4,CysR - macrophage mannose receptor,Curated,Specific,10,,553051
+Q9UKJ1,NP_038467,29992,0.199,I-type lectin,b-sandwich / Ig-like,5XOF,Siglec-like PILR alpha,Paired immunoglobulin-like type 2 receptor alpha,Curated,Specific,7,NeuAc(a2-6)GalNAc;NeuAc(a2-6)GlcNAc;NeuAc,553095
